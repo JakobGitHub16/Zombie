@@ -1,0 +1,5 @@
+name:sunflower
+texture:blocks/sunflower
+value:0
+resistance:100
+season_color_map_path:assets/textures/colormaps/seasonsunflowercolormap.png

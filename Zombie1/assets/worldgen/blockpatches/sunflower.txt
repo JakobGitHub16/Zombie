@@ -1,0 +1,6 @@
+blocktypes:sunflower;end
+chance:0.01
+quantity:5
+distX:2
+distY:2
+on_block:grass
