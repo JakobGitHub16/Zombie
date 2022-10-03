@@ -1,0 +1,4 @@
+name:dirt
+texture:blocks/dirt
+value:0
+resistance:100

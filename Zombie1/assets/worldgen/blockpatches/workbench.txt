@@ -1,0 +1,6 @@
+blocktypes:workbench;end
+chance:0.005
+quantity:1
+distX:1
+distY:1
+on_block:grass

@@ -1,0 +1,6 @@
+name:grass#variant
+variants:1;2;3;4;5;6;7;
+texture:blocks/grass#variant
+value:0
+hideplayer:false
+resistance:50

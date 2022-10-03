@@ -1,0 +1,15 @@
+name:smallamogus
+texture:entities/smallamogus
+health:10
+speed:1
+type:IntelligentMob
+hitboxes:59,59,0,0;
+intelligence_properties:{agression;0;0;OnCollideWithProjectile#1;OnMeleeDamage#1}
+ai_tasks:{AITaskFollowEntity;10;;duration=1000;speed=5;seekingRange=20;searchingRadius=10;cancelOnHurt=false}
+{AITaskWander;2;;duration=300;speed=1;searchingRadius=10;cancelOnHurt=true}{AITaskIdle;3;;duration=300;cancelOnHurt=true}
+attributes:{health;10}{defense;1}{kBResistance;100}
+class_file_path:assets/classes/entities/smallamogus.java
+world_gen_spawn_conditions:{block=grass;chance=0;group_size=1;group_radius=3;max_ent_on_loaded_chunks=1;needs_free_block=true}
+runtime_spawn_conditions:{block=grass;chance=0;group_size=10;max_light_level=5;min_light_level=0;min_player_distance=10;
+max_player_distance=32;group_radius=3;max_ent_on_loaded_chunks=100;needs_free_block=true;companions=amogus,boneling}
+despawn_conditions:{min_player_distance=0;min_light_level=10;chance=1}

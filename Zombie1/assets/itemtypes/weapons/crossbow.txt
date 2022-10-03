@@ -1,0 +1,8 @@
+name:crossbow
+texture:items/weapons/crossbow
+type:ranged
+class_file_path:assets/classes/items/crossbow.java
+damage:100
+max_stack_size:1
+description:{crossbow;100 ranged damage\na strong weapon to use in the early gameplay}
+namecolor:100,0,0

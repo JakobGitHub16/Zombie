@@ -1,0 +1,7 @@
+name:corrupt#variant
+variants:grass;log
+texture:blocks/corrupt#variant
+class_file_path:assets/classes/blocks/normal/corruptblock.java
+value:0
+resistance:100
+season_color_map_path:assets/textures/colormaps/seasoncorruptgrasscolormap.png

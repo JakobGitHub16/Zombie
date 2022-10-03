@@ -1,0 +1,8 @@
+name:coldbeam
+texture:items/weapons/laser
+type:magic
+class_file_path:assets/classes/items/coldbeam.java
+damage:100
+max_stack_size:1
+description:{coldbeam;100 magic damage\nshoots a powerful beam thaat slowly goes to the cursor}
+namecolor:100,0,0

@@ -1,0 +1,9 @@
+name:sniper
+texture:items/weapons/sniper
+type:raged
+class_file_path:assets/classes/items/sniper.java
+damage:1000
+isWeapon:true
+max_stack_size:1
+description:{sniper;1000 ranged damage\nshoots insanly fast projectiles but reloads very slowly}
+namecolor:100,0,0

@@ -1,0 +1,5 @@
+name:block1
+texture:blocks/block1
+change_texture_to:blocks/block11->100#1;#back->200#1
+value:0
+class_file_path:assets/classes/blocks/normal/block1.java

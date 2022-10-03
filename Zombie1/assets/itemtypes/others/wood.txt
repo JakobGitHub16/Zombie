@@ -1,0 +1,6 @@
+name:wood
+texture:items/others/wood
+type:others
+class_file_path:assets/classes/items/wood.java
+max_stack_size:50
+namecolor:200,200,200

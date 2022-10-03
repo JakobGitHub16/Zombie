@@ -1,0 +1,7 @@
+output:pathwooden
+output_quantity:9
+grid:
+,,,
+wood#1,wood#1,wood#1,
+,,
+crafting_station:workbench

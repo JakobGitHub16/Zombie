@@ -1,0 +1,8 @@
+name:demonslayerGun
+texture:items/weapons/demonslayerGun
+type:ranged
+class_file_path:assets/classes/items/demonslayerGun.java
+damage:100
+max_stack_size:1
+description:{demonslayerGun;100 ranged damage\nshoots high vilocity projectiles at an incredible speed}
+namecolor:100,0,0

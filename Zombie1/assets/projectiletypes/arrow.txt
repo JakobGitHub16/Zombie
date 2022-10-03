@@ -1,0 +1,4 @@
+name:arrow
+texture:projectiles/arrow
+class_file_path:assets/classes/projectiles/arrow.java
+attributes:{damage;10}{breakOnWalls;true}{lifetime;300}{startrotation;45}

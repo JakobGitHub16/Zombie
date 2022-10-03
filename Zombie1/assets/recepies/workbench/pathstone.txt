@@ -1,0 +1,7 @@
+output:pathstone
+output_quantity:9
+grid:
+,,,
+cobblestone#1,cobblestone#1,cobblestone#1,
+,,
+crafting_station:workbench

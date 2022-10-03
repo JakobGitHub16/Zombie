@@ -1,0 +1,14 @@
+name:ghostskull
+texture:entities/ghostskull/ghostskull
+idle_animation:sprite=assets/textures/entities/ghostskull/ghostskullIdls.png;frames=5;time=100;frame_heigth=120
+drawoffsetY:-60
+type:IntelligentMob
+knockback_resistance:0.1
+hitboxes:59,59,0,0;
+intelligence_properties:{agression;0;10;OnCollideWithProjectile#1;OnMeleeDamage#1}
+ai_tasks:{AITaskFollowEntity;20;agression>10;duration=1000;speed=1;seekingRange=20;searchingRadius=10;cancelOnHurt=false;
+animation=sprite->assets/textures/entities/ghostskull/ghostskullIdle.png|frames->5|time->50|frame_heigth->120}
+{AITaskWander;2;;duration=300;speed=1;searchingRadius=10;cancelOnHurt=true;
+animation=sprite->assets/textures/entities/ghostskull/ghostskullIdle.png|frames->5|time->80|frame_heigth->120}
+{AITaskIdle;3;;duration=300;cancelOnHurt=true;animation=sprite->assets/textures/entities/ghostskull/ghostskullIdle.png|frames->5|time->100|frame_heigth->120}
+attributes:{health;500}{defense;0}{kBResistance;0.1}

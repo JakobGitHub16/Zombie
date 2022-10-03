@@ -1,0 +1,6 @@
+name:mull#variant
+variants:;2;3
+texture:items/others/mull#variant
+type:others
+max_stack_size:50
+namecolor:200,200,200

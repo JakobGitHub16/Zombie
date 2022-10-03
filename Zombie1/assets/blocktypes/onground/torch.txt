@@ -1,0 +1,8 @@
+name:torch
+texture:blocks/torch
+value:0
+hideplayers:false
+resistance:50
+light_level:15
+light_absorbtion:0
+drops:torch

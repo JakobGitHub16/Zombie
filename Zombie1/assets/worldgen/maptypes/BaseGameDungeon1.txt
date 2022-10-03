@@ -1,0 +1,3 @@
+time:{enabled=true;ticks_per_day=100;days_per_month=1;months_per_year=12;sun_set_rise_ticks=10;day_light_level=15;night_light_level=10}
+generator:{.-0=parasiteblock,,}{1-.=parasiteblock,parasitewall,}
+max_chunk_layers:20

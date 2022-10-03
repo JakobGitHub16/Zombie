@@ -1,0 +1,9 @@
+hideplayer:false
+name:workbench
+texture:blocks/workbench
+vertical_texture:blocks/workbench_vert
+value:1
+solid:true
+resistance:200
+class_file_path:assets/classes/blocks/ground/workbench.java
+light_absorbtion:13

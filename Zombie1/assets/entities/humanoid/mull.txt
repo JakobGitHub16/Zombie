@@ -1,0 +1,5 @@
+name:mull
+type:Entity
+hitboxes:59,59,0,0;
+attributes:{kBResistance;-0.3}
+class_file_path:assets/classes/entities/mull.java

@@ -1,0 +1,2 @@
+sizeX:960
+sizeY:960

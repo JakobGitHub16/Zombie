@@ -1,0 +1,6 @@
+name:dirt
+texture:items/others/dirt
+type:others
+class_file_path:assets/classes/items/dirt.java
+max_stack_size:50
+namecolor:200,200,200

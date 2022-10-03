@@ -1,0 +1,5 @@
+name:corruptwater
+texture:blocks/corruptwater
+value:2
+change_texture_to:blocks/corruptwater2->200#0.3;#back->400#0.3
+class_file_path:assets/classes/blocks/normal/corruptblock.java

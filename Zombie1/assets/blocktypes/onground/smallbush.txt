@@ -1,0 +1,5 @@
+name:bush#variant
+variants:2;4;5
+texture:blocks/plants/bush#variant
+value:1
+resistance:100

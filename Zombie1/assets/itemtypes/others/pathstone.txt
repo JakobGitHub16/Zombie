@@ -1,0 +1,6 @@
+name:pathstone
+texture:blocks/stonepath
+type:others
+class_file_path:assets/classes/items/pathstone.java
+max_stack_size:50
+namecolor:200,200,200

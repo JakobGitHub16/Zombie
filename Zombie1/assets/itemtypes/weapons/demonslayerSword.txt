@@ -1,0 +1,8 @@
+name:demonslayerSword
+texture:items/weapons/demonslayerSword
+type:melee
+class_file_path:assets/classes/items/sword.java
+attributes:{damage;50}{size;100}{image;assets/textures/items/weapons/demonslayerSword.png}{type;melee}{knockback;3}{speed;40}
+max_stack_size:1
+description:{demonslayerSword;50 melee damage\nvery fast speed\na sword, which is so deathly, that it can slay even demons}
+namecolor:100,0,0

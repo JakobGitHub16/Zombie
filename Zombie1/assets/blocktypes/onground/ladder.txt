@@ -1,0 +1,7 @@
+name:ladder
+texture:blocks/ladder
+value:0
+hideplayers:false
+resistance:50
+class_file_path:assets/classes/blocks/ground/ladder.java
+drawoffsetY:-1

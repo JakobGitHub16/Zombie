@@ -1,0 +1,6 @@
+name:bloodlake
+texture:blocks/parasite/bloodlake
+value:2
+change_texture_to:blocks/bloodlake2->50#0.5;#back->100#0.5
+transparent:false
+class_file_path:assets/classes/blocks/normal/bloodlake.java

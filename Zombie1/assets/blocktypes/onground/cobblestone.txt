@@ -1,0 +1,8 @@
+name:cobblestone
+texture:blocks/cobblestone
+value:1
+resistance:1000
+draw_normal_block:false
+solid:true
+drops:cobblestone
+light_absorbtion:13

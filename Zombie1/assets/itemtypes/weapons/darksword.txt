@@ -1,0 +1,8 @@
+name:darksword
+texture:items/weapons/darksword
+type:melee
+class_file_path:assets/classes/items/sword.java
+attributes:{damage;10000}{size;360}{image;assets/textures/items/weapons/darksword.png}{type;melee}{knockback;30}{speed;10}
+max_stack_size:1
+description:{darksword;10000 melee damage\ninsane knockback\nbeing hit by this sword is worse then death,\nit sucks the soul out of a body and makes it feel endless pain}
+namecolor:100,0,0

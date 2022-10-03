@@ -1,0 +1,6 @@
+name:corruptplant#variant
+variants:;2
+texture:blocks/corruptplant#variant
+value:0
+hideplayer:false
+resistance:50

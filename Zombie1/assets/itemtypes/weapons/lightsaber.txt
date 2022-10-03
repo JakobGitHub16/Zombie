@@ -1,0 +1,8 @@
+name:lightsaber
+texture:items/weapons/lightsamber
+type:ranged
+class_file_path:assets/classes/items/lightsaber.java
+damage:100
+max_stack_size:1
+description:{lightsaber;100 melee damage\na powerful weapon from an other galaxy}
+namecolor:100,0,0

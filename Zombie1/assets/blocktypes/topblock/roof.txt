@@ -1,0 +1,6 @@
+name:roof_#variant
+variants:roof;roof_top
+texture:blocks/#variant
+transparent_texture:blocks/#variant#_tr
+value:0
+resistance:150

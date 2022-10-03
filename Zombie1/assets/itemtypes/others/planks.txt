@@ -1,0 +1,6 @@
+name:planks
+texture:items/others/planks
+type:others
+class_file_path:assets/classes/items/planks.java
+max_stack_size:50
+namecolor:200,200,200

@@ -1,0 +1,7 @@
+hideplayer:true
+name:bush1
+texture:blocks/plants/bush1
+drawoffsetY:-1
+drawoffsetX:-1
+value:1
+resistance:200

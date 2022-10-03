@@ -1,0 +1,7 @@
+output:torch
+output_quantity:1
+grid:
+,,,
+,wood#1,,
+,,
+crafting_station:workbench

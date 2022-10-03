@@ -1,0 +1,6 @@
+name:dungeonEntrance
+texture:blocks/dungeonEntrance
+change_texture_to:blocks/dungeonEntrance2->20#1;#back->50#1
+class_file_path:assets/classes/blocks/normal/dungeonEntrance.java
+value:0
+resistance:10000

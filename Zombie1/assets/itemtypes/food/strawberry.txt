@@ -1,0 +1,7 @@
+name:strawberry
+texture:items/food/strawberry
+type:food
+damage:0
+max_stack_size:5
+description:{strawberry;a tasty wild fruit\nconsumable}
+namecolor:0,255,0

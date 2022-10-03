@@ -1,0 +1,6 @@
+blocktypes:grass1;grass2;grass3;grass4;grass5;grass6;grass7;flower1;flower2;flower3;flower4;flower5;flower6;flower7;flower8;end
+chance:0.01
+quantity:10
+distX:5
+distY:5
+on_block:grass

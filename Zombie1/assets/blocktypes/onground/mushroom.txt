@@ -1,0 +1,5 @@
+variants:flyagaric1;flyagaric2
+name:mushroom_#variant
+texture:blocks/mushroom_#variant
+value:0
+resistance:50

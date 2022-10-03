@@ -1,0 +1,5 @@
+name:glas
+texture:blocks/glas
+value:1
+resistance:50
+solid:true

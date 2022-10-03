@@ -1,0 +1,7 @@
+name:leaves
+texture:blocks/leaves
+transparent_texture:blocks/leaves_tr
+value:0
+wind_affected:true
+resistance:50
+season_color_map_path:assets/textures/colormaps/seasongrasscolormap.png

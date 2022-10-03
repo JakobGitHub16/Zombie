@@ -1,0 +1,4 @@
+name:cobblestone
+texture:blocks/cobblestone
+value:1
+resistance:1000

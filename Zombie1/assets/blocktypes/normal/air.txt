@@ -1,0 +1,3 @@
+name:air
+texture:blocks/air
+value:0

@@ -1,0 +1,7 @@
+hideplayer:true
+name:wormplant
+texture:blocks/parasite/wormplant
+drawoffsetY:-2
+drawoffsetX:-1
+vlaue:1
+resistance:500

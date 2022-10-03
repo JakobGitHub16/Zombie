@@ -1,0 +1,16 @@
+name:boneling
+texture:entities/boneling
+idle_animation:sprite=assets/textures/entities/boneling.png;frames=1;time=100;frame_heigth=120
+drawoffsetY:-60
+type:IntelligentMob
+knockback_resistance:0
+hitboxes:59,59,0,0;
+intelligence_properties:{agression;0;10;OnCollideWithProjectile#1;OnMeleeDamage#1}
+ai_tasks:{AITaskFollowEntity;20;agression>10;duration=1000;speed=3;seekingRange=20;searchingRadius=10;cancelOnHurt=false;
+animation=sprite->assets/textures/entities/bonelingFollowEntity.png|frames->10|time->20|frame_heigth->120}
+{AITaskWander;2;;duration=300;speed=1;searchingRadius=10;cancelOnHurt=true;
+animation=sprite->assets/textures/entities/bonelingFollowEntity.png|frames->10|time->30|frame_heigth->120}
+{AITaskIdle;3;;duration=300;cancelOnHurt=true;animation=sprite->assets/textures/entities/bonelingIdle.png|frames->2|time->50|frame_heigth->120}
+attributes:{health;100}{defense;1}{kBResistance;1}
+world_gen_spawn_conditions:{block=grass;chance=0.001;group_size=3;group_radius=2;max_ent_on_loaded_chunks=100;needs_free_block=true}
+{block=planks;chance=0.01;group_size=5;group_radius=2;max_ent_at_one_place=100;companions=amogus;needs_free_block=true}

@@ -1,0 +1,7 @@
+name:path#variant
+variants:wooden;stone
+texture:blocks/#variant#path
+value:0
+hideplayer:false
+resistance:50
+drops:path#variant

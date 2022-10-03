@@ -1,0 +1,6 @@
+blocktypes:bloodlake;end
+chance:0.005
+quantity:1
+distX:10
+distY:10
+on_block:parasiteblock

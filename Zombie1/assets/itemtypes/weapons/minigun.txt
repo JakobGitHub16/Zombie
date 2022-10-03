@@ -1,0 +1,8 @@
+name:minigun
+texture:items/weapons/minigun
+class_file_path:assets/classes/items/minigun.java
+type:ranged
+damage:100
+max_stack_size:1
+description:{minigun;100 ranged damage\nshoots low vilocity projectiles to the position of your cursor}
+namecolor:100,0,0

@@ -1,0 +1,10 @@
+hideplayer:true
+name:tree
+texture:blocks/plants/baum
+drawoffsetY:-3
+drawoffsetX:-1
+value:1
+resistance:200
+season_color_map_path:assets/textures/colormaps/seasontreecolormap.png
+drops:wood
+light_absorbtion:10

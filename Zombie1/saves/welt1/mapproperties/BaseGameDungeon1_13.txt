@@ -1,0 +1,2 @@
+sizeX:48
+sizeY:48

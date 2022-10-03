@@ -1,0 +1,21 @@
+Bug-Fixes:
+-the player could not go to the end of the map and was stopped at the half of the last chunk
+-parasite Dimension would set the player out of bounds of the map if the player enterd the dimension far from [0, 0]
+-parasite dimension did not spawn an exit portal
+
+
+New Features:
+-light !!!
+	-torches, block-light-absorbtion (stone absorbs more light then glass -> light can pass throuh glass, but not throuh stone)
+	-added day/night cycle
+		-different maps have different day/night cycles
+		-dayatime can be changed at: assets/worldgen/maptypes/<maptype>.txt/time/ticks_per_day
+-seasons
+	-different blocks now have a gray texture, and the color is abplied from a colormap
+	-different blocks can have different colormaps
+-beter entity spawning and despawning
+	-the spawn conditions of entitites are now more customizable
+		-new parameters: max/min lightlevel, max/min player distance, group size/radius, how many entities are allowed in the loaded chunks -> no entity-overload
+	-the entites can now despawn
+		-parameters: max/min light, max/min playerdistance
+-amogus spawns now with smallamogus at lightlevels of 0, and despwn immeadaly when the lightlevel rises (even despawns from torchlight)

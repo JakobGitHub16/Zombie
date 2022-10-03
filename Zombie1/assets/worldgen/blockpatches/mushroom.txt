@@ -1,0 +1,6 @@
+blocktypes:mushroom_flyagaric1;mushroom_flyagaric2;end
+chance:0.001
+quantity:10
+distX:1
+distY:1
+on_block:grass

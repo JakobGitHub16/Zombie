@@ -1,0 +1,4 @@
+name:stone
+texture:blocks/stone
+value:0
+resistance:1000

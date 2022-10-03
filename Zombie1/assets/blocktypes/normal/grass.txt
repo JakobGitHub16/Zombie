@@ -1,0 +1,8 @@
+name:grass
+texture:blocks/grass
+vertical_texture:blocks/grass_vert
+value:0
+resistance:100
+material:dirt
+drops:dirt
+season_color_map_path:assets/textures/colormaps/seasongrasscolormap.png

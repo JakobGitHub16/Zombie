@@ -1,0 +1,6 @@
+blocktypes:corruptgrass;end
+chance:0.000
+quantity:0
+distX:1
+distY:1
+on_block:grass

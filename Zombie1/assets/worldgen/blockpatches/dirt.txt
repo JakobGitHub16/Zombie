@@ -1,0 +1,6 @@
+blocktypes:dirt;end
+chance:0.0001
+quantity:10
+distX:5
+distY:1
+on_block:grass

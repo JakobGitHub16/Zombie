@@ -1,0 +1,7 @@
+hideplayer:true
+name:bush#variant
+variants:3;6;7;8;9
+texture:blocks/plants/bush#variant
+drawoffsetY:-1
+value:1
+resistance:200

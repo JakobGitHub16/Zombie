@@ -1,0 +1,8 @@
+hideplayer:false
+name:berrybush_#variant
+variants:normal;harvested
+texture:blocks/plants/berrybush_#variant
+class_file_path:assets/classes/blocks/ground/berrybush.java
+value:1
+resistance:50
+season_color_map_path:assets/textures/colormaps/seasongrasscolormap.png

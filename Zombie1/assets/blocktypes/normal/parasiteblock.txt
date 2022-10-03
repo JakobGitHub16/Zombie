@@ -1,0 +1,4 @@
+name:parasiteblock
+texture:blocks/parasite/parasiteblock
+resistance:10000
+value:0

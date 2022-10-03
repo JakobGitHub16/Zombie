@@ -1,0 +1,8 @@
+name:prism
+texture:items/weapons/prism
+type:magic
+class_file_path:assets/classes/items/prism.java
+damage:100
+max_stack_size:1
+description:{prism;100 magic damage\nclearly one of the most powerfu weapons in the universe\nshoots very fast projectiles to your cursor}
+namecolor:100,0,0

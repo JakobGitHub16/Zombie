@@ -1,0 +1,4 @@
+name:gravel
+texture:blocks/gravel
+value:0
+resistance:100

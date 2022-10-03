@@ -1,0 +1,5 @@
+hideplayer:false
+name:wheat
+texture:blocks/wheat
+value:0
+resistance:50

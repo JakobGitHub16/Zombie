@@ -1,0 +1,3 @@
+name:demonslayerblock
+texture:blocks/demonslayerblock
+value:0

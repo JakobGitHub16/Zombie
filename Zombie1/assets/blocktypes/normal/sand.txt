@@ -1,0 +1,5 @@
+name:variant#sand
+variants:red_;normal_
+texture:blocks/#variant#sand
+value:0
+resistance:100

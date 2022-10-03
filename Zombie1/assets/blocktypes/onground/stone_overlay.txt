@@ -1,0 +1,5 @@
+name:stone_overlay
+texture:blocks/stone_overlay
+value:0
+hideplayer:false
+resistance:200

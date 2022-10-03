@@ -1,0 +1,6 @@
+name:pathwooden
+texture:blocks/woodenpath
+type:others
+class_file_path:assets/classes/items/pathwooden.java
+max_stack_size:50
+namecolor:200,200,200

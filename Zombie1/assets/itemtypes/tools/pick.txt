@@ -1,0 +1,8 @@
+name:pick
+texture:items/tools/pick
+type:melee
+class_file_path:assets/classes/items/pick.java
+damage:4
+max_stack_size:1
+description:{pick;a tool to break walls and dig through the ground}
+namecolor:255,255,255

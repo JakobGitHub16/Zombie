@@ -1,0 +1,5 @@
+name:planks
+texture:blocks/planks
+value:0
+resistance:200
+drops:planks

@@ -1,0 +1,5 @@
+name:dungeonOutrance
+texture:blocks/dungeonOutrance
+class_file_path:assets/classes/blocks/normal/dungeonOutrance.java
+value:0
+resistance:10000

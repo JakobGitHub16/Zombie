@@ -1,0 +1,5 @@
+name:water1
+texture:blocks/water1
+value:2
+change_texture_to:blocks/water2->50#0.3;#back->100#0.3
+transparent:true

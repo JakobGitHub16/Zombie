@@ -1,0 +1,4 @@
+name:tombstone
+texture:blocks/tombstone1
+value:0
+change_texture_to:blocks/tombstone2->100#1;blocks/tombstone3->200#1;#back->300#1
