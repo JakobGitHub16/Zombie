@@ -1,0 +1,102 @@
+name:
+	the name of the block, by ehich he is called in the code and other txt files
+	
+	Syntax:
+		name:exampleName
+
+	Syntax for different variants:
+		name:#variant#blockName
+		->the actual name of the block is the name of the variant, + BlockName
+
+texture:
+	the texture, that is drawn when the block is drawn
+	the game searches the texture automaticly in the /assets/textures folder, so you must only write the path from there on
+	also the game automaticly adds an .png to the file path, so you dont must do this either
+
+	Syntax:
+		texture:blocks/exampleTexture
+
+	Syntax for different variants:
+		texture:blocks/#variant#blockName
+		->the actual path of the texture of the block is the name of the variant, + BlockName
+
+vertical_texture:
+	the texture of the front face of the block, which is seen for example when the block at the position of y + 1
+	of this block is mined
+	
+	Syntax:
+		vertical_texture:blocks/blockName_vert
+	Syntax for different variants:
+		vertical_texture:blocks/#variant#blockName_vert
+		->the actual path of the texture of the block is the name of the variant, + blockName_vert
+
+
+value:
+	the value of the block
+	if it is 0, projectiles and entities can pass through
+	if it is 1, entities and projectiles cant pass through
+	if it is 2, entitites cant pass, but projectiles can
+
+	Syntax:
+		value:0
+			or
+		value:1
+			or
+		value:2
+
+change_texture_to:
+	if the block should be animated, use this parameter
+	
+	Parameters:
+		before the ->: the texture, which is used next
+		before the #: the ticks, that have passed since the start of the animation loop,
+			the higher the number, the slower the animation
+		after the #: the chance that the texture really changes, use 1, if the texture should change 100 % of the time
+		#back: sets the teture to the start texture, defined in the texture parameter
+
+	Syntax:
+		change_texture_to:blocks/texture2->100#1;blocks/texture3->200#1;#back->300#1
+
+class_file_path:
+	the class of the block
+	here you must write assets/classes and stuff before the actual class, and .java after it
+
+	Syntax:
+		class_file_path:assets/classes/blocks/normal/exampleBlockClass.java
+
+transparent:
+	determins wether the block, which is beneathh this block, should be drawn (the block at the same x and y coordinates, but
+	on the lower chunklayer)
+
+	Syntax:
+		transparent:true
+			or
+		transparent:false
+
+resistance:
+	the resistance of a block, when he is mined
+	the higher the resistance, the longer it takes to mine this block
+
+	Syntax:
+		resistance:1000
+
+variants:
+	if u want to create some almost similar blocks in one txt file, use this parameter
+	this parameter creates seperate blocks, whith the same statistics but differentr names, textures and drops
+	this is useful, when you want to create different wood types or something
+
+	Syntax:
+		variants:variant1;variant2;variantN
+
+season_color_map_path:
+	the path of the season_color_map for this block
+	if you want, that your block changes colors depenting on the season, use this parameter
+	
+	Syntax:
+		season_color_map_path:assets/textures/colormaps/seasonBlockNameColormap.png
+
+drops:
+	the items, which drop, when the block is broken
+
+	Syntax:
+		drops:dropItemName1,dropIntemName2,dropItemNameN
