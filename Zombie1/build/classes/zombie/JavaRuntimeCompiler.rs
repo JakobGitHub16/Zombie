@@ -1,0 +1,7 @@
+zombie.RuntimeCompiler$ClassDataFileManager
+zombie.RuntimeCompiler$MapClassLoader
+zombie.RuntimeCompiler$MemoryJavaClassFileObject
+zombie.RuntimeCompiler$ClassDataOutputStream
+zombie.MethodInvocationUtils
+zombie.RuntimeCompiler$MemoryJavaSourceFileObject
+zombie.RuntimeCompiler

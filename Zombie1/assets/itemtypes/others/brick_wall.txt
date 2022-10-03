@@ -1,0 +1,6 @@
+name:brick_wall
+texture:items/others/brick_wall
+type:others
+class_file_path:assets/classes/items/brick_wall.java
+max_stack_size:50
+namecolor:200,200,200
