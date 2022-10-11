@@ -1,0 +1,6 @@
+1. create new PNG-Picture in the Dir: Zombie/Zombie1/assets/textures/blocks
+2. go to Dir: Zombie/Zombie1/assets/. Choose the Typ of Block you want to create ("normal" for underground, "onground" for the items on the ground, "topblock" for the second level). Go to the Dir.
+3. create new txt-file and consider the parameters for your new Object, given at our Tutotial/blockNormalParameters.txt
+4. make the Object appear in your world, let generate it in your world-map! Go to Dir: assets/worldgen/blockpatches. Create a new txt-file, or just copy an old one for your purposes!
+
+

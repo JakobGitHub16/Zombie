@@ -34,8 +34,8 @@ vertical_texture:
 value:
 	the value of the block
 	if it is 0, projectiles and entities can pass through
-	if it is 1, entities and projectiles cant pass through
-	if it is 2, entitites cant pass, but projectiles can
+	if it is 1, projectiles and entities can not pass through
+	if it is 2, entitites can't pass, but projectiles can
 
 	Syntax:
 		value:0
